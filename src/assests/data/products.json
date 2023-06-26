@@ -1,0 +1,233 @@
+[
+  {
+    "_id": 1,
+    "name": "US Bangla",
+    "category": "Business",
+    "img": "data:image/png;base64,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",
+    "productId": "0525509283",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "1 kg",
+    "price": 18,
+    "salePrice": 15
+  },
+  {
+    "_id": 2,
+    "name": "US Bangla",
+    "category": "Business",
+    "img": "data:image/png;base64,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",
+    "productId": "0525509284",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "1 kg",
+    "price": 38,
+    "salePrice": 35
+  },
+  {
+    "_id": 3,
+    "name": "Biman Bangladesh",
+    "category": "Economy",
+    "img": "data:image/png;base64,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",
+    "productId": "0525509285",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "Per piece",
+    "price": 35,
+    "salePrice": 32
+  },
+  {
+    "_id": 4,
+    "name": "Indigo",
+    "category": "Business",
+    "img": "data:image/png;base64,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",
+    "productId": "0525509286",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "1 kg",
+    "price": 135,
+    "salePrice": 120
+  },
+  {
+    "_id": 5,
+    "name": "Quantas",
+    "category": "Economy",
+    "img": "data:image/png;base64,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",
+    "productId": "0525509287",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "Per piece",
+    "price": 9,
+    "salePrice": 8
+  },
+  {
+    "_id": 6,
+    "name": "Malta",
+    "category": "Fruits",
+    "img": "https://i.ibb.co/pWKB8zk/fruit-malta.jpg",
+    "productId": "0525509288",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "1 kg",
+    "price": 270,
+    "salePrice": 255
+  },
+  {
+    "_id": 7,
+    "name": "Pomegranate (Dalim)",
+    "category": "Fruits",
+    "img": "https://i.ibb.co/J70ts64/fruit-dalim.jpg",
+    "productId": "0525509289",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "1 kg",
+    "price": 380,
+    "salePrice": 370
+  },
+  {
+    "_id": 8,
+    "name": "Apple (Green Apple)",
+    "category": "Fruits",
+    "img": "https://i.ibb.co/b3H1qFZ/fruit-apple.jpg",
+    "productId": "0525509290",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "1 kg",
+    "price": 220,
+    "salePrice": 210
+  },
+  {
+    "_id": 9,
+    "name": "Orange (South Africa)",
+    "category": "Fruits",
+    "img": "https://i.ibb.co/Gthrjy7/fruit-orange.jpg",
+    "productId": "0525509291",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "1 kg",
+    "price": 270,
+    "salePrice": 260
+  },
+  {
+    "_id": 10,
+    "name": "Green Grapes (Angur Sobuj)",
+    "category": "Fruits",
+    "img": "https://i.ibb.co/bL7vWL8/fruit-angur.jpg",
+    "productId": "0525509292",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "1 kg",
+    "price": 280,
+    "salePrice": 270
+  },
+  {
+    "_id": 11,
+    "name": "Beef Premium Cube",
+    "category": "Meat",
+    "img": "https://i.ibb.co/ZVx4V7y/meat-beef.jpg",
+    "productId": "0525509293",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "1 kg",
+    "price": 600,
+    "salePrice": 590
+  },
+  {
+    "_id": 12,
+    "name": "Khashir Mangsho (Kg)",
+    "category": "Meat",
+    "img": "https://i.ibb.co/zRsthh6/meat-khasi.jpg",
+    "productId": "0525509294",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "1 kg",
+    "price": 900,
+    "salePrice": 890
+  },
+  {
+    "_id": 13,
+    "name": "Golda (Chingri) Medium (30-40 PCs/ Kg)",
+    "category": "Fish",
+    "img": "https://i.ibb.co/xqyFRCd/fish-goldha.jpg",
+    "productId": "0525509295",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "1 kg",
+    "price": 750,
+    "salePrice": 720
+  },
+  {
+    "_id": 14,
+    "name": "Rui Deshi (P)-1.5 To 1.99kg",
+    "category": "Fish",
+    "img": "https://i.ibb.co/xgwWy2r/fish-rui.jpg",
+    "productId": "0525509296",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "1 kg",
+    "price": 320,
+    "salePrice": 300
+  },
+  {
+    "_id": 15,
+    "name": "Frutika Mango Drink 250 Ml",
+    "category": "Beverages",
+    "img": "https://i.ibb.co/FgRfnDw/drink-frutika.jpg",
+    "productId": "0525509297",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "250 ml",
+    "price": 25,
+    "salePrice": 24
+  },
+  {
+    "_id": 16,
+    "name": "Garden Fresh Mango Fruit Drink 500ml",
+    "category": "Beverages",
+    "img": "https://i.ibb.co/YhyMvxD/drink-mango-500.jpg",
+    "productId": "0525509298",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "500 ml",
+    "price": 40,
+    "salePrice": 38
+  },
+  {
+    "_id": 17,
+    "name": "Mountain Dew Pet Bottle 600ml",
+    "category": "Beverages",
+    "img": "https://i.ibb.co/gD9mpwG/drink-mountain.jpg",
+    "productId": "0525509299",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "600 ml",
+    "price": 35,
+    "salePrice": 34
+  },
+  {
+    "_id": 18,
+    "name": "7 Up Lemon Flavor 1.25Ltr",
+    "category": "Beverages",
+    "img": "https://i.ibb.co/yh1FV7b/drink-7up.png",
+    "productId": "0525509300",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "1.25 Ltr",
+    "price": 60,
+    "salePrice": 58
+  },
+  {
+    "_id": 19,
+    "name": "Mr. Energy Biscuit 240g",
+    "category": "Biscuit",
+    "img": "https://i.ibb.co/kSx9Zjc/biscuit-energy.jpg",
+    "productId": "0525509301",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "240 gm",
+    "price": 40,
+    "salePrice": 38
+  },
+  {
+    "_id": 20,
+    "name": "Danish Florida Orange Biscuits 70±5g",
+    "category": "Biscuit",
+    "img": "https://i.ibb.co/KmGytBH/biscuit-danish.jpg",
+    "productId": "0525509302",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "70±5 gm",
+    "price": 10,
+    "salePrice": 9
+  },
+  {
+    "_id": 21,
+    "name": "GoldMark Yo Yo Vanilla Cream Biscuit 56g",
+    "category": "Biscuit",
+    "img": "https://i.ibb.co/Cmf9FQc/biscuit-goldmark.jpg",
+    "productId": "0525509303",
+    "description": "The image shown is a representation and may slightly vary from the actual product. Every effort is made to maintain the accuracy of all information displayed. However, actual product packaging and materials may contain more and/or different information.",
+    "unit": "56 gm",
+    "price": 10,
+    "salePrice": 9
+  }
+]

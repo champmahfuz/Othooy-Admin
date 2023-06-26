@@ -1,0 +1,15 @@
+.navbarLink {
+  text-decoration: "none";
+  /* color: "#019444"; */
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+  font-family: "Raleway", sans-serif;
+}
+
+.navbarLink:hover {
+  text-decoration: underline;
+  color: black !important;
+  /* color: red !important; */
+  font-weight: 500 !important;
+}

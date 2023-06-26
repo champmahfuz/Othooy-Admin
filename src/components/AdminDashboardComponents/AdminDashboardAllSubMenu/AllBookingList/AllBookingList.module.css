@@ -1,0 +1,33 @@
+/* custom css */
+.mainContainer {
+  padding: 10px;
+  overflow: hidden;
+}
+
+.bookingInfo {
+  margin-right: 100px;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 480px) {
+  .bookingDetails {
+    flex-direction: column;
+  }
+
+  .bookingInfo {
+    margin-right: 20px;
+  }
+
+  .airlineLogo {
+    padding-top: 70px;
+  }
+
+  .flightDetails {
+    max-width: 400px;
+    overflow-x: scroll;
+  }
+
+  .flightInfo {
+    width: 300px;
+  }
+}

@@ -1,0 +1,17 @@
+.resetBtn {
+  background-color: #e7575e !important;
+  color: #fff !important;
+  text-transform: capitalize !important;
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+  margin-right: 5px !important;
+}
+
+.saveBtn {
+  background-color: #003366 !important;
+  color: #fff !important;
+  text-transform: capitalize !important;
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+  margin-right: 5px !important;
+}
